@@ -1,4 +1,4 @@
-## I'm a student who are currently learnin' at Majorana of Grugliasco. I wanna increase his abilities and skills!!!
+## I'm a student who are currently learning at Majorana of Grugliasco. 
 
 Welcome to my GitHub profile! 
 
