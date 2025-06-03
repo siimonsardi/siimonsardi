@@ -1,4 +1,4 @@
-## I'm a student who are currently learning at Majorana of Grugliasco. 
+## Simon Sardi| currently frequnety ITIS Ettore Majorana | inspire to become a informatic sector specialist 
 
 Welcome to my GitHub profile! 
 
