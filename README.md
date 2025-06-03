@@ -1,4 +1,4 @@
-Hi there to Everyone 👋
+Hi there to Everyone i'm a student who wanna increase his abilities and skills 
 
 Welcome to my GitHub profile! 
 I'm Simon Sardi, a passionate software developer and technology enthusiast dedicated to building high-quality, scalable applications.
