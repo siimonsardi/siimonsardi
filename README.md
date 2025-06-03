@@ -33,7 +33,7 @@ I'm Simon Sardi, a passionate software developer and technology enthusiast dedic
 
 If you’d like to collaborate, discuss opportunities, or just say hi, feel free to reach out:
 
-- 📧 Email: [simone.sardi@example.com](mailto:simon.sardi@gmail.com)
+- 📧 Email: (:simon.sardi@gmail.com)
 
 ---
 
