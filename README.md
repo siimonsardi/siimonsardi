@@ -4,9 +4,9 @@ Welcome to my GitHub profile!
 I'm Simon Sardi, a passionate software developer and technology enthusiast dedicated to building high-quality, scalable applications.
 
 
-👨‍💻 i'm 21 years old n im based in Turin but i love travel for work and in my free time.
+👨‍💻 i'm 17 years old n im based in Turin but i love travel for work and in my free time.
 
-🔭 I’m currently working on **full-stack web development projects**, focusing on building modern and accessible applications.
+🔭 I’m currently working on informatic development and focusing on building modern and accessible applications.
 
 🌱 I’m currently learning; C#, Javascript and Python practices to enhance my development toolkit.
 
