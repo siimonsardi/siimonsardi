@@ -1,4 +1,4 @@
-## Simon Sardi | currently frequnety ITIS Ettore Majorana | inspire to become a informatic sector specialist 
+## Simon Sardi | currently frequenty ITIS Ettore Majorana | inspire to become a informatic sector specialist 
 
 Welcome to my GitHub profile! 
 
