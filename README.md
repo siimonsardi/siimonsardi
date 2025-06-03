@@ -1,6 +1,7 @@
-Hi there to Everyone i'm a student who wanna increase his abilities and skills 
+Hi there to Everyone i'm a student who wanna increase his abilities and skills!!!
 
 Welcome to my GitHub profile! 
+
 I'm Simon Sardi, a passionate software developer and technology enthusiast dedicated to building high-quality, scalable applications.
 
 
@@ -32,7 +33,7 @@ I'm Simon Sardi, a passionate software developer and technology enthusiast dedic
 
 If you’d like to collaborate, discuss opportunities, or just say hi, feel free to reach out:
 
-- 📧 Email: [simone.sardi@example.com](mailto:simone.sardi@example.com)
+- 📧 Email: [simone.sardi@example.com](mailto:simon.sardi@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/siimonsardi](https://www.linkedin.com/in/siimonsardi/)
 
 ---
